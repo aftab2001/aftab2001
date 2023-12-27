@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring boot, React ,gsap**
 
--
+
  👨‍💻 All of my projects are available at 
 [https://github.com/aftab2001?tab=repositories](https://github.com/aftab2001?tab=repositories)
 
