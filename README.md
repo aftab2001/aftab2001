@@ -3,7 +3,7 @@
 <p align="center">Hi 👋, I'm Mohammed Aftab Hussain, a passionate frontend developer from Hyderabad, India.</p>
 
 <ul>
-  <li>🌱 I’m currently learning <strong>Spring Boot, React, GSAP</strong></li>
+  <li>🌱 I’m currently learning <strong>MERN</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/aftab2001?tab=repositories">GitHub</a></li>
   <li>📫 How to reach me: <a href="mailto:aftab98856@gmail.com">aftab98856@gmail.com</a></li>
 </ul>
