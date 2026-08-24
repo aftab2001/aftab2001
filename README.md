@@ -3,10 +3,10 @@
 <p align="center">Hi 👋, I'm Mohammed Aftab Hussain, a passionate frontend developer from Hyderabad, India.</p>
 
 <ul>
-  <li>🌱 I’m currently learning <strong>MERN</strong></li>
-  <li> Working on <a href="https://github.com/aftab2001/Cargen"> Cargen </a></li>
+  <li>🌱 I’m currently learning <strong>Machine Learning </strong></li>
+  <li> Working on <a href="AIML-TUDA/dlam-ts-project-data-2026"> Time series </a></li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/aftab2001?tab=repositories">GitHub</a></li>
-  <li>📫 How to reach me: <a href="mailto:ma.hussain.career@gmail.com">ma.hussain.career@gmail.com</a></li>
+  <li>📫 How to reach me: <a href="mailto:aftab49de@gmail.com"aftab49de@gmail.com</a></li>
 </ul>
 
 <h2 align="center">Connect with me:</h2>
