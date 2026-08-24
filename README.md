@@ -1,6 +1,6 @@
 <h1 align="center">Mohammed Aftab Hussain</h1>
 
-<p align="center">Hi 👋, I'm Mohammed Aftab Hussain, a passionate frontend developer from Hyderabad, India.</p>
+<p align="center">Hi 👋, I'm Mohammed Aftab Hussain, a passionate Developer, based in Germany.</p>
 
 <ul>
   <li>🌱 I’m currently learning <strong>Machine Learning </strong></li>
